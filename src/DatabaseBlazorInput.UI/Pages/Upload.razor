@@ -1,0 +1,48 @@
+@page "/upload"
+
+<PageTitle>Upload Excel</PageTitle>
+
+<h1>Upload Excel File</h1>
+
+<p>Select an Excel file from your computer. The file will be prepared to be sent to the server for database import.</p>
+
+<InputFile OnChange="OnInputFileChange" accept=".xls,.xlsx" />
+
+@if (selectedFileName is not null)
+{
+    <div class="mt-3">
+        <strong>Selected file:</strong> @selectedFileName<br />
+        <strong>Size:</strong> @selectedFileSize bytes
+    </div>
+}
+
+<button class="btn btn-secondary mt-3" @onclick="GoBack">Back</button>
+
+@code {
+    [Inject]
+    private NavigationManager? NavigationManager { get; set; }
+
+    private string? selectedFileName;
+    private long selectedFileSize;
+
+    private async Task OnInputFileChange(InputFileChangeEventArgs e)
+    {
+        var file = e.File;
+        if (file is not null)
+        {
+            selectedFileName = file.Name;
+            selectedFileSize = file.Size;
+
+            // If you want to read the file contents here (for preview or client-side processing),
+            // you can use file.OpenReadStream(maxAllowedSize) and read into a buffer.
+            // For server-side import, send the file to an API endpoint using HttpClient and MultipartFormDataContent.
+        }
+
+        await Task.CompletedTask;
+    }
+
+    private void GoBack()
+    {
+        NavigationManager?.NavigateTo("/");
+    }
+}
