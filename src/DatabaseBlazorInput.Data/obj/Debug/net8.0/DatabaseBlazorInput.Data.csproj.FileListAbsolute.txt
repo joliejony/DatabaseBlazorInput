@@ -1,0 +1,6 @@
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.csproj.AssemblyReference.cache
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.AssemblyInfoInputs.cache
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.AssemblyInfo.cs
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.csproj.CoreCompileInputs.cache
+C:\Users\Jolie\source\repos\DatabaseBlazorInput\src\DatabaseBlazorInput.Data\obj\Debug\net8.0\DatabaseBlazorInput.Data.sourcelink.json

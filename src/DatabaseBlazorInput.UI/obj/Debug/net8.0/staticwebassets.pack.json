@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\obj\\Debug\\net8.0\\compressed\\3czbvc7n1e.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\obj\\Debug\\net8.0\\scopedcss\\bundle\\DatabaseBlazorInput.UI.styles.css",
+      "PackagePath": "staticwebassets\\DatabaseBlazorInput.UI.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.DatabaseBlazorInput.UI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.DatabaseBlazorInput.UI.props",
+      "PackagePath": "build\\DatabaseBlazorInput.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.DatabaseBlazorInput.UI.props",
+      "PackagePath": "buildMultiTargeting\\DatabaseBlazorInput.UI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.DatabaseBlazorInput.UI.props",
+      "PackagePath": "buildTransitive\\DatabaseBlazorInput.UI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

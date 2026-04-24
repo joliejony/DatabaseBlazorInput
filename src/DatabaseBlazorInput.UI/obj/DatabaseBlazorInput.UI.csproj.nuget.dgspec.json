@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jolie\\source\\repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj": {}
+    "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jolie\\source\\repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj": {
+    "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jolie\\source\\repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj",
+        "projectUniqueName": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj",
         "projectName": "DatabaseBlazorInput.UI",
-        "projectPath": "C:\\Users\\Jolie\\source\\repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj",
+        "projectPath": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\DatabaseBlazorInput.UI.csproj",
         "packagesPath": "C:\\Users\\Jolie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jolie\\source\\repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\obj\\",
+        "outputPath": "C:\\Users\\Jolie\\Source\\Repos\\DatabaseBlazorInput\\src\\DatabaseBlazorInput.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -57,6 +57,30 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.24, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.3.9, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.0, )"
             },
             "Microsoft.NET.ILLink.Tasks": {
               "suppressParent": "All",
