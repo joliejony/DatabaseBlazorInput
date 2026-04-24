@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DatabaseBlazorInput.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ea3356acd6a6558611be89ae1db55d3747bac96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3e73eb0b61e65eaa33f30ed415a3f3da9761c2a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DatabaseBlazorInput.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DatabaseBlazorInput.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

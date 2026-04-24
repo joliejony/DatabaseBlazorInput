@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "DatabaseBlazorInput.UI",
   "resources": {
-    "hash": "sha256-d5AX33TlB2/fSAVlyftA4ZBWEHr+A5PoiZXVXYvJZI0=",
+    "hash": "sha256-TGI5Wl7gBUcAoZe+hINFFVV2X9dEc+1keoKy7ZbO0mU=",
     "jsModuleNative": {
       "dotnet.native.8.0.22.fju3jkvmdm.js": "sha256-vtotCeXt2UD6oc459laJT32vBgigZ+eLoUmdeFkvYDk="
     },
@@ -252,10 +252,10 @@
       "mscorlib.wasm": "sha256-K9gNrsN9UmPqLs6J/FrkiKpmkVGnHjjqUsc7YGvesCY=",
       "netstandard.wasm": "sha256-4emjlXLM9qW3t2tlII20SDylBgG4ueI0wy9nh5FMd8g=",
       "System.Private.CoreLib.wasm": "sha256-2DN4v7I/tabltDEPdIO8sDBB0tY8zOm+0CvHbMssXW4=",
-      "DatabaseBlazorInput.UI.wasm": "sha256-fFDCsLMAneWL3YvBZL7n8AeiYNFzvv+PNTRonaQ1gOs="
+      "DatabaseBlazorInput.UI.wasm": "sha256-g7TS1FhOAYmKnOQxwqBwqvNeVJm3IhC8g291/VfQnZs="
     },
     "pdb": {
-      "DatabaseBlazorInput.UI.pdb": "sha256-hdOTHFHSQiWO/V2qlVM4hzjIVncUSRmka/oK+LRE4Mg="
+      "DatabaseBlazorInput.UI.pdb": "sha256-fhAygax8qmCZSLNgcCbae8gi+Dad2EJv25/Y1X51I9g="
     },
     "satelliteResources": {
       "cs": {
